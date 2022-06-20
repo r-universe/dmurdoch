@@ -2,5 +2,9 @@
   {
     "package": "rgl",
     "oncran": true
+  },
+  {
+    "package": "rgl2gltf",
+    "oncran": true
   }
 ]

@@ -8,3 +8,8 @@
 	url = https://github.com/dmurdoch/rgl
 	shallow = true
 	registered = true
+[submodule "rgl2gltf"]
+	path = rgl2gltf
+	url = https://github.com/dmurdoch/rgl2gltf
+	shallow = true
+	registered = true
