@@ -1,5 +1,9 @@
 [
   {
+    "package": "orientlib",
+    "oncran": true
+  },
+  {
     "package": "rgl",
     "oncran": true
   },
