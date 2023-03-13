@@ -18,3 +18,8 @@
 	url = https://github.com/dmurdoch/rgl2gltf
 	shallow = true
 	registered = true
+[submodule "RmdConcord"]
+	path = RmdConcord
+	url = https://github.com/dmurdoch/rmdconcord
+	shallow = true
+	registered = true

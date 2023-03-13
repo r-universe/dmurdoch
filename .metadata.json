@@ -10,5 +10,9 @@
   {
     "package": "rgl2gltf",
     "oncran": true
+  },
+  {
+    "package": "RmdConcord",
+    "oncran": true
   }
 ]
