@@ -4,15 +4,19 @@
     "oncran": true
   },
   {
+    "package": "RmdConcord",
+    "oncran": true
+  },
+  {
+    "package": "patchDVI",
+    "oncran": true
+  },
+  {
     "package": "rgl",
     "oncran": true
   },
   {
     "package": "rgl2gltf",
-    "oncran": true
-  },
-  {
-    "package": "RmdConcord",
     "oncran": true
   }
 ]
