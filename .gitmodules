@@ -8,11 +8,6 @@
 	url = https://github.com/dmurdoch/orientlib
 	shallow = true
 	registered = true
-[submodule "RmdConcord"]
-	path = RmdConcord
-	url = https://github.com/dmurdoch/rmdconcord
-	shallow = true
-	registered = true
 [submodule "patchDVI"]
 	path = patchDVI
 	url = https://github.com/dmurdoch/patchdvi
@@ -27,5 +22,10 @@
 [submodule "rgl2gltf"]
 	path = rgl2gltf
 	url = https://github.com/dmurdoch/rgl2gltf
+	shallow = true
+	registered = true
+[submodule "RmdConcord"]
+	path = RmdConcord
+	url = https://github.com/dmurdoch/rmdconcord
 	shallow = true
 	registered = true
