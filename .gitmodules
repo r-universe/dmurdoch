@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "ellipse"]
 	path = ellipse
-	url = https://github.com/cran/ellipse
+	url = https://github.com/dmurdoch/ellipse
 	shallow = true
 	registered = true
 [submodule "orientlib"]
