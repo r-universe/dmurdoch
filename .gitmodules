@@ -39,3 +39,9 @@
 	url = https://github.com/dmurdoch/rmdconcord
 	shallow = true
 	registered = true
+[submodule "tables"]
+	path = tables
+	url = https://github.com/dmurdoch/tables
+	shallow = true
+	subdir = pkg/tables
+	registered = true
