@@ -17,7 +17,6 @@
 	path = patchDVI
 	url = https://github.com/dmurdoch/patchdvi
 	shallow = true
-	subdir = pkg/patchDVI
 	registered = true
 [submodule "rgl"]
 	path = rgl
@@ -43,5 +42,4 @@
 	path = tables
 	url = https://github.com/dmurdoch/tables
 	shallow = true
-	subdir = pkg/tables
 	registered = true
