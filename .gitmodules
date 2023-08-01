@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RmdConcord"]
+	path = RmdConcord
+	url = https://github.com/dmurdoch/rmdconcord
 [submodule "ellipse"]
 	path = ellipse
 	url = https://github.com/dmurdoch/ellipse
@@ -20,9 +23,6 @@
 [submodule "rglwidget"]
 	path = rglwidget
 	url = https://github.com/cran/rglwidget
-[submodule "RmdConcord"]
-	path = RmdConcord
-	url = https://github.com/dmurdoch/rmdconcord
 [submodule "tables"]
 	path = tables
 	url = https://github.com/dmurdoch/tables
