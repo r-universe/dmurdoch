@@ -16,7 +16,7 @@
 	url = https://github.com/dmurdoch/patchdvi
 [submodule "plotrix"]
 	path = plotrix
-	url = https://github.com/dmurdoch/plotrix
+	url = https://github.com/cran/plotrix
 [submodule "rgl"]
 	path = rgl
 	url = https://github.com/dmurdoch/rgl
