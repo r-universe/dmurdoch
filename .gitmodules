@@ -8,6 +8,10 @@
 [submodule "ellipse"]
 	path = ellipse
 	url = https://github.com/dmurdoch/ellipse
+[submodule "markdown"]
+	path = markdown
+	url = https://github.com/rstudio/markdown
+	registered = false
 [submodule "orientlib"]
 	path = orientlib
 	url = https://github.com/dmurdoch/orientlib
