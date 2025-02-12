@@ -11,6 +11,9 @@
 [submodule "orientlib"]
 	path = orientlib
 	url = https://github.com/dmurdoch/orientlib
+[submodule "parseLatex"]
+	path = parseLatex
+	url = https://github.com/dmurdoch/parselatex
 [submodule "patchDVI"]
 	path = patchDVI
 	url = https://github.com/dmurdoch/patchdvi
