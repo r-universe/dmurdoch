@@ -17,6 +17,9 @@
 [submodule "patchDVI"]
 	path = patchDVI
 	url = https://github.com/dmurdoch/patchdvi
+[submodule "polycor"]
+	path = polycor
+	url = https://github.com/dmurdoch/polycor
 [submodule "rgl"]
 	path = rgl
 	url = https://github.com/dmurdoch/rgl
